@@ -1,3 +1,3 @@
 # Hadoop
 
-Map reduce programe example with java 
+Map reduce program example with java 
